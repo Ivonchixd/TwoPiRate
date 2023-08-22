@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twoPiRate/static/css/main.38688086.css",
+    "main.js": "/twoPiRate/static/js/main.a35f5e23.js",
+    "index.html": "/twoPiRate/index.html",
+    "main.38688086.css.map": "/twoPiRate/static/css/main.38688086.css.map",
+    "main.a35f5e23.js.map": "/twoPiRate/static/js/main.a35f5e23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38688086.css",
+    "static/js/main.a35f5e23.js"
+  ]
+}
