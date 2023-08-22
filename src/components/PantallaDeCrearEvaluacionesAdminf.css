@@ -1,0 +1,546 @@
+.pantalla-de-crear-evaluaciones-adminf-pantalla-de-crear-evaluaciones-adminf {
+      font-family:Inter;
+align-items:center;
+justify-content:center;
+flex-direction:column;
+display:inline-flex;
+background-color:rgba(21,27,40,1);
+height:900px;
+width:1440px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-horizontal-container {
+      padding-right:1px;
+padding-left:1px;
+justify-content:center;
+align-items:center;
+gap:579px;
+width:1440px;
+height:55px;
+box-sizing:border-box;
+background-color:rgba(21,27,40,1);
+border-style:solid;
+border-left-width:0;
+border-right-width:0;
+border-top-width:0;
+border-bottom-width:1px;
+border-color:rgba(46,53,69,1);
+display:flex;
+padding:0;
+color:rgba(249,249,249,1);
+text-align:left;
+font-weight:500;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-input {
+      gap:32px;
+width:411px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-button-group-base {
+      align-self:stretch;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:8px;
+background-color:rgba(44,52,68,1);
+padding-right:12px;
+padding-left:12px;
+padding-bottom:10px;
+padding-top:10px;
+box-sizing:border-box;
+height:100%;
+flex-grow:1;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-rotate-360x-1 {
+      height:21px;
+width:21px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-button {
+      line-height:30px;
+letter-spacing:-0.01em;
+font-size:22px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-rotate-360x-2 {
+      height:21px;
+width:21px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-frame-10x {
+      align-self:stretch;
+align-items:center;
+display:flex;
+flex-grow:1;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-side-menu {
+      align-items:center;
+flex-direction:column;
+display:flex;
+gap:32px;
+overflow:clip;
+border-color:rgba(46,53,69,1);
+border-bottom-width:0;
+border-top-width:0;
+border-right-width:1px;
+border-left-width:0;
+border-style:solid;
+background-color:rgba(28,37,52,1);
+padding-bottom:24px;
+padding-top:24px;
+box-sizing:border-box;
+height:842px;
+width:280px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-header {
+      align-self:stretch;
+align-items:center;
+flex-direction:column;
+display:flex;
+gap:16px;
+padding-right:28px;
+padding-left:28px;
+box-sizing:border-box;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-paragraph-container {
+      font-weight:500;
+text-align:center;
+align-self:stretch;
+align-items:center;
+flex-direction:column;
+display:flex;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-pedro-alcntara {
+      color:rgba(249,249,249,1);
+line-height:22px;
+font-size:15px;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-pedral-192304outloo {
+      color:rgba(165,172,186,1);
+line-height:20px;
+font-size:14px;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-actions {
+      font-weight:600;
+text-align:left;
+color:rgba(249,249,249,1);
+align-self:stretch;
+align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:8px;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-button-1 {
+      border-radius:5px;
+align-self:stretch;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(46, 53, 69, 1) inset;
+background-color:rgba(44,52,68,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:16px;
+padding-left:16px;
+padding-bottom:10px;
+padding-top:10px;
+box-sizing:border-box;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-exit-1 {
+      height:19px;
+width:18px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-side-menu-section {
+      justify-content:center;
+align-items:center;
+gap:12px;
+width:100%;
+display:flex;
+align-self:stretch;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-user-1 {
+      height:25px;
+width:24px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-line-6x-1 {
+      height:1px;
+width:280px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-bottom-section {
+      font-weight:600;
+text-align:left;
+gap:10px;
+flex-grow:1;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-sections {
+      gap:16px;
+flex-grow:1;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-sections-1 {
+      align-items:flex-start;
+flex-direction:column;
+gap:4px;
+flex-grow:1;
+display:flex;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-side-menu-section-1 {
+      color:rgba(249,249,249,1);
+align-self:stretch;
+align-items:center;
+display:flex;
+gap:12px;
+background-color:rgba(51,59,72,1);
+position:relative;
+padding-right:28px;
+padding-left:28px;
+box-sizing:border-box;
+height:46px;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-1 {
+      line-height:22px;
+font-size:15px;
+position:relative;
+flex-grow:1;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-layout-28 {
+      width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-rectangle-3x {
+      background-color:rgba(249,249,249,1);
+position:absolute;
+left:0;
+bottom:-4.5px;
+top:-3.5px;
+height:54px;
+width:3px;
+transform:scaleY(-1);
+transform-origin:center;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-side-menu-section-2 {
+      color:rgba(165,172,186,1);
+align-self:stretch;
+align-items:center;
+display:flex;
+gap:12px;
+padding-right:28px;
+padding-left:28px;
+box-sizing:border-box;
+height:46px;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-folder-opened-1 {
+      height:23px;
+width:22px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-2 {
+      line-height:22px;
+font-size:15px;
+flex-grow:1;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-container-1 {
+      text-align:left;
+align-self:stretch;
+align-items:flex-start;
+flex-direction:column;
+display:flex;
+overflow:clip;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(37, 45, 60, 1) inset;
+background-color:rgba(28,37,52,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+height:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-container-2 {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(37, 45, 60, 1) inset;
+background-color:rgba(28,37,52,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+height:348px;
+width:1160px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-breadcrumb {
+      font-weight:500;
+align-items:center;
+display:flex;
+gap:4px;
+width:636px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-breadcrumb-base {
+      color:rgba(165,172,186,1);
+align-items:center;
+display:flex;
+gap:4px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-document-user-4 {
+      height:16px;
+width:16px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-3 {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-chevron-right-1 {
+      height:20px;
+width:20px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-breadcrumb-base-1 {
+      color:rgba(67,126,247,1);
+align-items:center;
+display:flex;
+gap:4px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-document-user-5 {
+      height:16px;
+width:16px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-4 {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-frame-427319315x {
+      gap:24px;
+width:1112px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-5 {
+      padding-top:24px;
+padding-right:24px;
+padding-left:24px;
+padding-bottom:24px;
+align-items:center;
+flex-direction:column;
+gap:8px;
+width:1112px;
+height:328px;
+box-sizing:border-box;
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+background-color:rgba(28,37,52,1);
+box-shadow:0px 0px 0px 1px rgba(37, 45, 60, 1) inset;
+box-shadow-width:1px;
+display:flex;
+border-radius:10px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-evaluacin-360x {
+      width:NaN;
+line-height:1;
+position:relative;
+color:rgba(249,249,249,1);
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-evaluacin-360text-0x {
+      display:inline;
+line-height:30px;
+letter-spacing:-0.01em;
+font-weight:600;
+font-size:22px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-component-text-1x {
+      display:inline;
+line-height:30px;
+letter-spacing:-0.01em;
+font-weight:400;
+font-size:22px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-evala-el-desempeo {
+      width:NaN;
+font-size:16px;
+font-weight:600;
+line-height:24px;
+color:rgba(67,126,247,1);
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-esta-evaluacin-360x {
+      width:NaN;
+font-size:16px;
+font-weight:400;
+line-height:24px;
+color:rgba(165,172,186,1);
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-frame-427319316x {
+      align-items:center;
+justify-content:center;
+display:flex;
+gap:24px;
+height:497px;
+width:1136px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-table {
+      font-weight:500;
+color:rgba(249,249,249,1);
+border-radius:10px;
+overflow:clip;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(37, 45, 60, 1) inset;
+background-color:rgba(28,37,52,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+position:relative;
+box-sizing:border-box;
+height:436px;
+width:722px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-card-header {
+      align-self:stretch;
+align-items:center;
+justify-content:center;
+flex-direction:column;
+display:flex;
+gap:16px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+background-color:rgba(28,37,52,1);
+top:0.5px;
+right:-1px;
+left:0;
+position:absolute;
+padding-right:24px;
+padding-left:24px;
+padding-bottom:16px;
+padding-top:16px;
+box-sizing:border-box;
+height:436px;
+width:723px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-6 {
+      align-self:stretch;
+align-items:flex-start;
+flex-direction:column;
+display:flex;
+padding-right:28px;
+box-sizing:border-box;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-escriba-sus-pregunta {
+      line-height:24px;
+font-size:16px;
+width:100%;
+    }
+
+
+.pantalla-de-crear-evaluaciones-adminf-segmented-picker {
+      border-radius:6px;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(46, 53, 69, 1) inset;
+background-color:rgba(44,52,68,1);
+box-sizing:border-box;
+height:356px;
+width:100%;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-actions-1 {
+      font-weight:600;
+color:rgba(255,255,255,1);
+gap:12px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-button-2 {
+      border-radius:5px;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+background-color:rgba(67,126,247,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:16px;
+padding-left:16px;
+padding-bottom:10px;
+padding-top:10px;
+box-sizing:border-box;
+width:126px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-plus-circle-1 {
+      height:19px;
+width:18px;
+    }
+
+.pantalla-de-crear-evaluaciones-adminf-text-7 {
+      line-height:20px;
+font-size:14px;
+    }
+
+
+    /* PantallaDeRegistro.css */
+    .pantalla-de-crear-evaluaciones-adminf-text,
+    .pantalla-de-crear-evaluaciones-adminf-text-1,
+    .pantalla-de-crear-evaluaciones-adminf-text-2,
+    .pantalla-de-crear-evaluaciones-adminf-button-2 {
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.pantalla-de-crear-evaluaciones-adminf-text:hover,
+.pantalla-de-crear-evaluaciones-adminf-text-1:hover,
+.pantalla-de-crear-evaluaciones-adminf-text-2:hover,
+.pantalla-de-crear-evaluaciones-adminf-button-2:hover, 
+.pantalla-de-crear-evaluaciones-adminf-text:active,
+.pantalla-de-crear-evaluaciones-adminf-text-1:active,
+.pantalla-de-crear-evaluaciones-adminf-text-2:active,
+.pantalla-de-crear-evaluaciones-adminf-button-2:active{
+  background-color: #f0f0f0; /* Cambia el color al que desees */
+  color: #333; /* Cambia el color al que desees */
+}

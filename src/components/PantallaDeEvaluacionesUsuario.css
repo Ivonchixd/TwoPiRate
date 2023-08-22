@@ -1,0 +1,890 @@
+.pantalla-de-evaluaciones-usuario-pantalla-de-evaluaciones-usuario {
+      font-family:Inter;
+align-items:center;
+flex-direction:column;
+display:inline-flex;
+background-color:rgba(21,27,40,1);
+height:900px;
+width:1440px;
+    }
+
+.pantalla-de-evaluaciones-usuario-horizontal-container {
+      padding-right:1px;
+padding-left:1px;
+justify-content:center;
+align-items:center;
+gap:579px;
+width:1440px;
+height:55px;
+box-sizing:border-box;
+background-color:rgba(21,27,40,1);
+border-style:solid;
+border-left-width:0;
+border-right-width:0;
+border-top-width:0;
+border-bottom-width:1px;
+border-color:rgba(46,53,69,1);
+display:flex;
+padding:0;
+color:rgba(249,249,249,1);
+text-align:left;
+font-weight:500;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-input {
+      gap:32px;
+width:411px;
+    }
+
+.pantalla-de-evaluaciones-usuario-button-group-base {
+      align-self:stretch;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:8px;
+background-color:rgba(44,52,68,1);
+padding-right:12px;
+padding-left:12px;
+padding-bottom:10px;
+padding-top:10px;
+box-sizing:border-box;
+height:100%;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-rotate-360x-1 {
+      height:21px;
+width:21px;
+    }
+
+.pantalla-de-evaluaciones-usuario-button {
+      line-height:30px;
+letter-spacing:-0.01em;
+font-size:22px;
+    }
+
+.pantalla-de-evaluaciones-usuario-rotate-360x-2 {
+      height:21px;
+width:21px;
+    }
+
+.pantalla-de-evaluaciones-usuario-frame-10x {
+      align-self:stretch;
+align-items:flex-start;
+display:flex;
+flex-grow:1;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-side-menu {
+      align-items:center;
+flex-direction:column;
+display:flex;
+gap:32px;
+overflow:clip;
+border-color:rgba(46,53,69,1);
+border-bottom-width:0;
+border-top-width:0;
+border-right-width:1px;
+border-left-width:0;
+border-style:solid;
+background-color:rgba(28,37,52,1);
+padding-bottom:24px;
+padding-top:24px;
+box-sizing:border-box;
+height:842px;
+width:280px;
+    }
+
+.pantalla-de-evaluaciones-usuario-header {
+      align-self:stretch;
+align-items:center;
+flex-direction:column;
+display:flex;
+gap:16px;
+padding-right:28px;
+padding-left:28px;
+box-sizing:border-box;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-paragraph-container {
+      font-weight:500;
+text-align:center;
+align-self:stretch;
+align-items:center;
+flex-direction:column;
+display:flex;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-brian-ford {
+      color:rgba(249,249,249,1);
+line-height:22px;
+font-size:15px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-briant_ford-lookscou {
+      color:rgba(165,172,186,1);
+line-height:20px;
+font-size:14px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-actions {
+      font-weight:600;
+text-align:left;
+color:rgba(249,249,249,1);
+align-self:stretch;
+align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:8px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-button-1 {
+      border-radius:5px;
+align-self:stretch;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(46, 53, 69, 1) inset;
+background-color:rgba(44,52,68,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:16px;
+padding-left:16px;
+padding-bottom:10px;
+padding-top:10px;
+box-sizing:border-box;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-exit-1 {
+      height:18px;
+width:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-text {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-evaluaciones-usuario-side-menu-section {
+      justify-content:center;
+align-items:center;
+gap:12px;
+width:100%;
+display:flex;
+align-self:stretch;
+    }
+
+.pantalla-de-evaluaciones-usuario-user-1 {
+      height:24px;
+width:24px;
+    }
+
+.pantalla-de-evaluaciones-usuario-line-6x-1 {
+      height:2px;
+width:280px;
+    }
+
+.pantalla-de-evaluaciones-usuario-bottom-section {
+      font-weight:600;
+text-align:left;
+color:rgba(249,249,249,1);
+gap:10px;
+flex-grow:1;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-sections {
+      gap:16px;
+flex-grow:1;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-up-part {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:16px;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-sections-1 {
+      gap:4px;
+width:280px;
+    }
+
+.pantalla-de-evaluaciones-usuario-side-menu-section-1 {
+      align-self:stretch;
+align-items:center;
+display:flex;
+gap:12px;
+background-color:rgba(51,59,72,1);
+position:relative;
+padding-right:28px;
+padding-left:28px;
+box-sizing:border-box;
+height:46px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-1 {
+      line-height:22px;
+font-size:15px;
+position:relative;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-layout-20 {
+      width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-rectangle-3x {
+      background-color:rgba(249,249,249,1);
+position:absolute;
+left:0;
+bottom:-4.5px;
+top:-3.5px;
+height:54px;
+width:3px;
+transform:scaleY(-1);
+transform-origin:center;
+    }
+
+.pantalla-de-evaluaciones-usuario-container-1 {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+overflow:clip;
+box-shadow-width:1px;
+box-shadow:0px 0px 0px 1px rgba(37, 45, 60, 1) inset;
+background-color:rgba(28,37,52,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+height:842px;
+width:1160px;
+    }
+
+.pantalla-de-evaluaciones-usuario-breadcrumb-base {
+      align-items:center;
+gap:4px;
+width:636px;
+display:flex;
+color:rgba(67,126,247,1);
+text-align:left;
+font-weight:500;
+    }
+
+.pantalla-de-evaluaciones-usuario-document-user-3 {
+      height:16px;
+width:16px;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-2 {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-evaluaciones-usuario-header-1 {
+      font-weight:600;
+text-align:left;
+color:rgba(249,249,249,1);
+align-self:stretch;
+align-items:center;
+display:flex;
+gap:16px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+background-color:rgba(37,45,60,1);
+padding-right:24px;
+padding-left:24px;
+padding-bottom:12px;
+padding-top:12px;
+box-sizing:border-box;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluaciones {
+      line-height:38px;
+letter-spacing:-0.01em;
+font-size:28px;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-message {
+      padding:24px;
+align-self:stretch;
+align-items:center;
+justify-content:flex-end;
+flex-direction:column;
+display:flex;
+gap:169px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+box-sizing:border-box;
+height:758px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-row {
+      align-self:stretch;
+align-items:flex-start;
+display:flex;
+gap:41px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-rating {
+      font-weight:500;
+color:rgba(240,250,240,1);
+gap:10px;
+position:relative;
+height:22px;
+width:33px;
+    }
+
+.pantalla-de-evaluaciones-usuario-label {
+      border-radius:5px;
+background-color:rgba(56,66,85,1);
+position:absolute;
+top:0;
+right:-36px;
+left:0;
+box-sizing:border-box;
+height:22px;
+width:69px;
+    }
+
+.pantalla-de-evaluaciones-usuario-layout-22 {
+      text-align:center;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-1 {
+      border-radius:5px;
+height:22px;
+width:23px;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:4px;
+background-color:rgba(56,66,85,1);
+left:calc(50% - 11.5px + 18px);
+top:0.5px;
+position:absolute;
+padding-right:8px;
+padding-left:8px;
+padding-bottom:2px;
+padding-top:2px;
+box-sizing:border-box;
+    }
+
+.pantalla-de-evaluaciones-usuario-component {
+      line-height:18px;
+font-size:13px;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-2 {
+      border-radius:5px;
+background-color:rgba(56,66,85,1);
+position:absolute;
+top:0.5px;
+right:-573px;
+left:537px;
+box-sizing:border-box;
+height:22px;
+width:69px;
+    }
+
+.pantalla-de-evaluaciones-usuario-layout-24 {
+      text-align:left;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-3 {
+      border-radius:5px;
+height:22px;
+width:24px;
+align-items:center;
+display:flex;
+gap:4px;
+background-color:rgba(56,66,85,1);
+top:0.5px;
+left:555px;
+position:absolute;
+padding-right:8px;
+padding-left:8px;
+padding-bottom:2px;
+padding-top:2px;
+box-sizing:border-box;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-1 {
+      line-height:18px;
+font-size:13px;
+    }
+
+.pantalla-de-evaluaciones-usuario-event {
+      text-align:left;
+gap:16px;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-details {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:4px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+padding-bottom:16px;
+box-sizing:border-box;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-frame-427319312x {
+      color:rgba(249,249,249,1);
+gap:4px;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360x {
+      position:relative;
+line-height:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360text-0x {
+      display:inline;
+line-height:28px;
+font-weight:600;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-text-1x {
+      display:inline;
+line-height:28px;
+font-weight:400;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-button-2 {
+      font-weight:600;
+color:rgba(255,255,255,1);
+border-radius:6px;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+background-color:rgba(45,138,57,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:18px;
+padding-left:18px;
+padding-bottom:0;
+padding-top:0;
+box-sizing:border-box;
+height:28px;
+width:96px;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-3 {
+      line-height:22px;
+font-size:15px;
+    }
+
+.pantalla-de-evaluaciones-usuario-event-1 {
+      text-align:left;
+gap:16px;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-details-1 {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:4px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+padding-bottom:16px;
+box-sizing:border-box;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-frame-427319312x-1 {
+      color:rgba(249,249,249,1);
+gap:4px;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360x-1 {
+      position:relative;
+line-height:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360text-0x-1 {
+      display:inline;
+line-height:28px;
+font-weight:600;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-text-1x-1 {
+      display:inline;
+line-height:28px;
+font-weight:400;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-button-3 {
+      font-weight:600;
+color:rgba(255,255,255,1);
+border-radius:6px;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+background-color:rgba(226,52,29,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:4px;
+padding-left:4px;
+padding-bottom:0;
+padding-top:0;
+box-sizing:border-box;
+height:28px;
+width:96px;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-4 {
+      line-height:22px;
+font-size:15px;
+    }
+
+.pantalla-de-evaluaciones-usuario-row-1 {
+      text-align:left;
+align-self:stretch;
+align-items:flex-start;
+display:flex;
+gap:41px;
+width:100%;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-rating-1 {
+      font-weight:500;
+color:rgba(240,250,240,1);
+gap:10px;
+position:relative;
+height:22px;
+width:33px;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-4 {
+      border-radius:5px;
+background-color:rgba(56,66,85,1);
+position:absolute;
+top:0.5px;
+right:-573px;
+left:537px;
+box-sizing:border-box;
+height:22px;
+width:69px;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-5 {
+      border-radius:5px;
+height:22px;
+width:25px;
+align-items:center;
+display:flex;
+gap:4px;
+background-color:rgba(56,66,85,1);
+top:0.5px;
+left:550px;
+position:absolute;
+padding-right:8px;
+padding-left:8px;
+padding-bottom:2px;
+padding-top:2px;
+box-sizing:border-box;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-2 {
+      line-height:18px;
+font-size:13px;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-6 {
+      border-radius:5px;
+background-color:rgba(56,66,85,1);
+position:absolute;
+top:0;
+right:-36px;
+left:0;
+box-sizing:border-box;
+height:22px;
+width:69px;
+    }
+
+.pantalla-de-evaluaciones-usuario-label-7 {
+      border-radius:5px;
+height:22px;
+width:25px;
+align-items:center;
+display:flex;
+gap:4px;
+background-color:rgba(56,66,85,1);
+top:0.5px;
+left:23px;
+position:absolute;
+padding-right:8px;
+padding-left:8px;
+padding-bottom:2px;
+padding-top:2px;
+box-sizing:border-box;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-3 {
+      line-height:18px;
+font-size:13px;
+    }
+
+.pantalla-de-evaluaciones-usuario-event-2 {
+      gap:16px;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-details-2 {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:4px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+padding-bottom:16px;
+box-sizing:border-box;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-frame-427319312x-2 {
+      color:rgba(249,249,249,1);
+gap:4px;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360x-2 {
+      position:relative;
+line-height:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360text-0x-2 {
+      display:inline;
+line-height:28px;
+font-weight:600;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-text-1x-2 {
+      display:inline;
+line-height:28px;
+font-weight:400;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-button-4 {
+      font-weight:600;
+color:rgba(255,255,255,1);
+border-radius:6px;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+background-color:rgba(226,52,29,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:4px;
+padding-left:4px;
+padding-bottom:0;
+padding-top:0;
+box-sizing:border-box;
+height:28px;
+width:96px;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-5 {
+      line-height:22px;
+font-size:15px;
+    }
+
+.pantalla-de-evaluaciones-usuario-event-3 {
+      gap:16px;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-details-3 {
+      align-items:flex-start;
+flex-direction:column;
+display:flex;
+gap:4px;
+border-color:rgba(46,53,69,1);
+border-bottom-width:1px;
+border-top-width:0;
+border-right-width:0;
+border-left-width:0;
+border-style:solid;
+padding-bottom:16px;
+box-sizing:border-box;
+flex-grow:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-frame-427319312x-3 {
+      color:rgba(249,249,249,1);
+gap:4px;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360x-3 {
+      position:relative;
+line-height:1;
+    }
+
+.pantalla-de-evaluaciones-usuario-evaluacin-360text-0x-3 {
+      display:inline;
+line-height:28px;
+font-weight:600;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-component-text-1x-3 {
+      display:inline;
+line-height:28px;
+font-weight:400;
+font-size:18px;
+    }
+
+.pantalla-de-evaluaciones-usuario-button-5 {
+      font-weight:600;
+color:rgba(255,255,255,1);
+border-radius:6px;
+align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+background-color:rgba(226,52,29,1);
+filter:drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.04));
+padding-right:4px;
+padding-left:4px;
+padding-bottom:0;
+padding-top:0;
+box-sizing:border-box;
+height:28px;
+width:96px;
+    }
+
+.pantalla-de-evaluaciones-usuario-text-6 {
+      line-height:22px;
+font-size:15px;
+    }
+
+.pantalla-de-evaluaciones-usuario-pagination {
+      padding-top:12px;
+padding-right:24px;
+padding-left:24px;
+padding-bottom:12px;
+justify-content:space-between;
+align-items:center;
+width:100%;
+box-sizing:border-box;
+display:flex;
+align-self:stretch;
+color:rgba(165,172,186,1);
+text-align:left;
+font-weight:500;
+    }
+
+.pantalla-de-evaluaciones-usuario-pagination-base {
+      align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+height:40px;
+    }
+
+.pantalla-de-evaluaciones-usuario-arrow-left-1 {
+      height:16px;
+width:16px;
+    }
+
+.pantalla-de-evaluaciones-usuario-anterior {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-evaluaciones-usuario-pagination-base-1 {
+      align-items:center;
+justify-content:center;
+display:flex;
+gap:6px;
+height:40px;
+    }
+
+.pantalla-de-evaluaciones-usuario-siguiente {
+      line-height:20px;
+font-size:14px;
+    }
+
+.pantalla-de-evaluaciones-usuario-arrow-right-1 {
+      height:16px;
+width:16px;
+    }
+
+
+/* PantallaDeRegistro.css */
+.pantalla-de-evaluaciones-usuario-text,
+.pantalla-de-evaluaciones-usuario-text-1,
+.pantalla-de-evaluaciones-usuario-text-3,
+.pantalla-de-evaluaciones-usuario-text-4,
+.pantalla-de-evaluaciones-usuario-siguiente,
+.pantalla-de-evaluaciones-usuario-text-5,
+.pantalla-de-evaluaciones-usuario-text-6,
+.pantalla-de-evaluaciones-usuario-anterior,
+.pantalla-de-evaluaciones-usuario-siguiente {
+      cursor: pointer;
+ transition: background-color 0.3s, color 0.3s;
+}
+
+
+.pantalla-de-evaluaciones-usuario-text:hover,
+.pantalla-de-evaluaciones-usuario-text-1:hover,
+.pantalla-de-evaluaciones-usuario-text-3:hover,
+.pantalla-de-evaluaciones-usuario-text-4:hover,
+.pantalla-de-evaluaciones-usuario-text-5:hover,
+.pantalla-de-evaluaciones-usuario-text-6:hover,
+.pantalla-de-evaluaciones-usuario-anterior:hover,
+.pantalla-de-evaluaciones-usuario-siguiente:hover
+.pantalla-de-evaluaciones-usuario-text:active,
+.pantalla-de-evaluaciones-usuario-text-1:active,
+.pantalla-de-evaluaciones-usuario-text-3:active,
+.pantalla-de-evaluaciones-usuario-text-4:active,
+.pantalla-de-evaluaciones-usuario-text-5:active,
+.pantalla-de-evaluaciones-usuario-text-6:active,
+.pantalla-de-evaluaciones-usuario-anterior:active,
+.pantalla-de-evaluaciones-usuario-siguiente:active {
+      background-color: #f0f0f0; /* Cambia el color al que desees */
+      color: #333; /* Cambia el color al que desees */
+}
